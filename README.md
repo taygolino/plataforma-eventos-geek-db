@@ -1,6 +1,6 @@
 # Plataforma de Eventos Geek - Trabalho de Modelagem de Dados
 
-Projeto desenvolvido como uma parte da disciplina de Modelagem de Dados, da Universidade Iguaçu - UNIG.
+Projeto desenvolvido como uma parte da disciplina de Modelagem de Dados, da Universidade Iguaçu - UNIG.<br>
 É minha primeira tentativa de modelagem. Fiquei feliz com o resultado :^)
 
 
