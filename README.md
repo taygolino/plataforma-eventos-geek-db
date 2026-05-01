@@ -6,26 +6,26 @@ Projeto desenvolvido como uma parte da disciplina de Modelagem de Dados, da Univ
 
 ## Objetivo
 Modelar um banco de dados para uma plataforma de eventos geek, incluindo:
-  .Campeonatos de jogos
-  .Concursos de cosplay
-  .Palestras
+- Campeonatos de jogos
+- Concursos de cosplay
+- Palestras
 
 ## Conceitos aplicados
-  .Modelo Entidade-Relacionamento (MER)
-  .Cardinalidade entre relações
-  .Entidade associativa (N:N)
-  .Especialização (herança)
-  .Transformação para modelo lógico (SQL)
+- Modelo Entidade-Relacionamento (MER)
+- Cardinalidade entre relações
+- Entidade associativa (N:N)
+- Especialização (herança)
+- Transformação para modelo lógico (SQL)
 
 ## Relacionamentos principais
-  .Usuário compra ingressos
-  .Evento contém atividades
-  .Usuário participa de atividades (N:N resolvido com Participacao)
+- Usuário compra ingressos
+- Evento contém atividades
+- Usuário participa de atividades (N:N resolvido com Participacao)
 
 ## Tecnologias utilizadas
-  .MySQL
-  .draw.io
-  .ChatGPT
+- MySQL
+- draw.io
+- ChatGPT
 
 ## Autor
-Fabiano Henrique Carminatti Junior
+- Fabiano Henrique Carminatti Junior
