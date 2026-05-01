@@ -11,7 +11,7 @@ Modelar um banco de dados para uma plataforma de eventos geek, incluindo:
 - Palestras
 
 ## Conceitos aplicados
-- Modelo Entidade-Relacionamento (MER)
+- Modelo Entidade-Relacionamento [MER](./modelo_conceitual_MER.png)
 - Cardinalidade entre relações
 - Entidade associativa (N:N)
 - Especialização (herança)
@@ -26,6 +26,10 @@ Modelar um banco de dados para uma plataforma de eventos geek, incluindo:
 - MySQL
 - draw.io
 - ChatGPT
+
+## Documentação completa
+O trabalho completo, com todas as etapas e comentários, pode ser acessado aqui:
+[PDF do projeto](./trabalho_modelagem.pdf)
 
 ## Autor
 Fabiano Henrique Carminatti Junior
