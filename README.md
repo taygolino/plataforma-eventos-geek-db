@@ -28,4 +28,4 @@ Modelar um banco de dados para uma plataforma de eventos geek, incluindo:
 - ChatGPT
 
 ## Autor
-- Fabiano Henrique Carminatti Junior
+Fabiano Henrique Carminatti Junior
