@@ -91,12 +91,12 @@ INSERT INTO Usuario VALUES (
 	'Rua X, número Y - Bairro z'
 	);
 
-INSERT INTO Evento (nome, plataforma) VALUES (
+INSERT INTO Jogo (nome, plataforma) VALUES (
 	'League of Legends',
 	'PC'
 	);
 
-INSERT INTO Jogo (nome, data, local, capacidade) VALUES (
+INSERT INTO Evento (nome, data, local, capacidade) VALUES (
 	'Geek Fest',
 	'2026-06-01',
 	'Rio de Janeiro',
